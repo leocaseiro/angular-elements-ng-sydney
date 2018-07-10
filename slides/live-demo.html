@@ -1,0 +1,23 @@
+<h2>Live Demo</h2>
+
+<img src="/apple-fail.gif" />
+
+<aside class="notes">
+const feedback = document.querySelector('feedback-list');
+​
+feedback.type = 'warning';
+feedback.messages = [{code: 1, message: 'Number 1'}, {code: 404, message: 'page not found'}];
+
+feedback.addEventListener('clickEvent', function(el) {
+    console.log('clicked', el);
+});
+​
+const FeedbackList = customElements.get('feedback-list');
+​
+var myFeedback = new FeedbackList();
+​
+myFeedback.messages = [{code: 200, message: 'Success loaded'}];
+myFeedback.type = 'success';
+​
+document.body.appendChild(myFeedback);
+</aside>
