@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Angular Elements",
+    "packageVersion": "1.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "leocaseiro",
+    "githubRepository": "ng-elements-ng-sydney"
+  }
+}
