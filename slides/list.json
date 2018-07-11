@@ -5,7 +5,8 @@
     "agenda.html",
     [
         "angular-single-page-application.md",
-        "angular-6-microfrontends.md"
+        "angular-6-microfrontends.md",
+        "omg.md"
     ],
     [
         "angular-elements.md",
@@ -36,6 +37,8 @@
     ],
     "live-demo.html",
     "what-is-coming.md",
+    "who-else-doing.md",
+    "integrating-with-react.md",
     "resources.md",
     "questions.md",
     "thank-you.md"
