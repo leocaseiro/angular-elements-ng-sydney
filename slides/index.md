@@ -4,4 +4,4 @@ custom elements (Web Components)
 
 <small>http://leocaseiro.com</small>
 
-<!-- [http://bit.ly/angular-elements-ng-sydney](http://bit.ly/angular-elements-ng-sydney) -->
+[https://youtu.be/xGHbWKt54XE](https://youtu.be/xGHbWKt54XE)
