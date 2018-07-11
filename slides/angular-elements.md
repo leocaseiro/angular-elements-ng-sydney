@@ -2,10 +2,10 @@
 
 <div style="display: flex; width: 50%; margin: auto;">
     <div style="height: 190px; flex: 1 1 50%">
-        <img style="border: 0; background: transparent; box-shadow: none;" src="/angular-logo.png">
+        <img style="border: 0; background: transparent; box-shadow: none;" src="/angular-elements-ng-sydney/angular-logo.png">
     </div>
     <div style="height: 190px;  flex: 1 1 50%">
-        <img style="border: 0; background: transparent; box-shadow: none;" src="/angular-elements-logo.png">
+        <img style="border: 0; background: transparent; box-shadow: none;" src="/angular-elements-ng-sydney/angular-elements-logo.png">
     </div>
 </div>
 

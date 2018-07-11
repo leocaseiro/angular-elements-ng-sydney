@@ -1,3 +1,3 @@
 #### Can I integrate with React?
 
-<img src="/omg.gif">
+<img src="/angular-elements-ng-sydney/omg.gif">
