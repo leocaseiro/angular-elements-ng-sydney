@@ -1,5 +1,6 @@
 <h2>Resources</h2>
 
+* https://andrewrabon.com/the-case-for-react-like-web-components-63887335fe41
 * https://angular.io/guide/elements
 * https://github.com/angular/angular/issues/20891
 * https://github.com/shprink/web-components-todo

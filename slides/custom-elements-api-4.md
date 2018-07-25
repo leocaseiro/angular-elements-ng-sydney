@@ -23,4 +23,5 @@ class HelloWorld extends HTMLElement {
 </code>
 </pre>
 
-<p class="fragment">Similar: @Input() and @HostBinding()</p>
+<p class="fragment">Similar: Angular @Input() and @HostBinding()</p>
+<p class="fragment">Similar: React props</p>

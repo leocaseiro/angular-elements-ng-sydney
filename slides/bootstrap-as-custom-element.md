@@ -1,10 +1,11 @@
 Bootstrap
 ```
-import { BrowserModule } from '@angular/core';
+import { BrowserModule } from '@angular/platform-browser';
 import { createCustomElement } from '@angular/elements';
 
 @NgModule({
     imports: [BrowserModule],
+    declarations: [MyAngularElementComponent],
     entryComponents: [MyAngularElementComponent]
 })
 export class AppModule {
