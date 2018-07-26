@@ -1,7 +1,10 @@
 [
     "index.md",
     "who-am-i.md",
-    "inspired-by.html",
+    [
+        "inspired-by.html",
+        "thanks-anna-chebotar.md"
+    ],
     [
         "agenda.html",
         "bullet-points.md"
