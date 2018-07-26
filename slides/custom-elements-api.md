@@ -12,4 +12,4 @@ customElements.define("my-element", MyElement);
 </code>
 </pre>
 
-<span class="fragment">Similar: Angular Component</span>
+<span class="fragment">Similar: Angular Component or React.createElement()</span>

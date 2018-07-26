@@ -1,8 +1,14 @@
 [
     "index.md",
     "who-am-i.md",
-    "inspired-by.html",
-    "agenda.html",
+    [
+        "inspired-by.html",
+        "thanks-anna-chebotar.md"
+    ],
+    [
+        "agenda.html",
+        "bullet-points.md"
+    ],
     [
         "angular-single-page-application.md",
         "angular-6-microfrontends.md",
@@ -31,14 +37,21 @@
         "how-to-use-with-angular.md",
         "add-angular-elements.md",
         "setup-tsconfig-json.md",
-        "encapsulation-shadow-dom.md",
         "bootstrap-as-custom-element.md",
-        "host-binding.md"
+        "encapsulation-shadow-dom.md"
+    ],
+    [
+        "react-please.md",
+        "integrating-with-react.md",
+        "use-ref.md",
+        "key-for-loops.md"
     ],
     "live-demo.html",
     "what-is-coming.md",
-    "who-else-doing.md",
-    "integrating-with-react.md",
+    [
+        "who-else-doing.md",
+        "web-react-components.md"
+    ],
     "resources.md",
     "questions.md",
     "thank-you.md"

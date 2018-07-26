@@ -10,4 +10,7 @@ class MyElement extends HTMLElement {
 }
 ```
 
-<p class="fragment">Similar: Angular Lifecycle Hooks</p>
+<div class="fragment">
+    Similar: Angular/React Lifecycle Hooks
+    componentDidMount(), componentDidUpdate()
+</div>

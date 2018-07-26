@@ -15,4 +15,4 @@ customElements.define(
 </code>
 </pre>
 
-<p class="fragment">Similar: Angular Directive</p>
+<p class="fragment">Similar: Angular Directive or React.createElement()</p>
